@@ -15,11 +15,7 @@
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
-    "/about": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/helloworld": [
+    "/error": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],

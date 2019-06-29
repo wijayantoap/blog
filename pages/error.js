@@ -2,15 +2,14 @@ import { Component } from 'react'
 import Header from '../components/header'
 // import Content from '../components/content'
 
-class AboutPage extends Component {
+class Error extends Component {
   render() {
     return (
       <main>
         <Header />
           <section className="content">
-          <h1>About this blog</h1>
-          <p>Okay it seems that I decided to rewrite my blog using this something2 framework and i just wanna try figuring things out. anyway i might go back in using yadayada for some reason. well the progress seems a little bit off the schedule 
-            (yes yes you are right, i have no actual schedule to make this). welp i guess that is that</p>
+          <h1>Second post already?! WOW</h1>
+          <p>in this post i just wanted to tell you a that there was an error when i tried to deploy this blog for the second time. what a joker! the logs aren't that helpful and i need to do quite an ugly fix within the code. and you know what is worst than an error? an error that you can't solve.</p>
           </section>
           <style jsx>{`
           .content {
@@ -34,4 +33,4 @@ class AboutPage extends Component {
   }
 }
 
-export default AboutPage
+export default Error

@@ -10720,7 +10720,7 @@ var _jsxFileName = "/Users/wijayantoap/Desktop/Tito/My website/blog/pages/index.
 
 /* harmony default export */ __webpack_exports__["default"] = (function () {
   return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("main", {
-    className: "jsx-602983631",
+    className: "jsx-264355577",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 6
@@ -10733,51 +10733,72 @@ var _jsxFileName = "/Users/wijayantoap/Desktop/Tito/My website/blog/pages/index.
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("section", {
-    className: "jsx-602983631",
+    className: "jsx-264355577" + " " + "content",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 8
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
-    href: "/about",
+    href: "/error",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 9
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
-    className: "jsx-602983631",
+    className: "jsx-264355577",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 10
     },
     __self: this
-  }, "About this blog")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("br", {
-    className: "jsx-602983631",
+  }, "Another post")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("br", {
+    className: "jsx-264355577",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 12
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
-    href: "/helloworld",
+    href: "/about",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 13
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
-    className: "jsx-602983631",
+    className: "jsx-264355577",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 14
     },
     __self: this
-  }, "Hello World"))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-    id: "602983631",
+  }, "About this blog")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("br", {
+    className: "jsx-264355577",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 16
+    },
     __self: this
-  }, "html.jsx-602983631,body.jsx-602983631{margin:0px;padding:0px;}a.jsx-602983631{-webkit-text-decoration:none;text-decoration:none;color:black;font-size:24px;font-weight:600;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy93aWpheWFudG9hcC9EZXNrdG9wL1RpdG8vTXkgd2Vic2l0ZS9ibG9nL3BhZ2VzL2luZGV4LmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQWdCZ0IsQUFJb0IsQUFJUSxXQUh4QixZQUFDLDJCQUljLFlBQ0csZUFDQyxnQkFDbEIiLCJmaWxlIjoiL1VzZXJzL3dpamF5YW50b2FwL0Rlc2t0b3AvVGl0by9NeSB3ZWJzaXRlL2Jsb2cvcGFnZXMvaW5kZXguanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgTGluayBmcm9tIFwibmV4dC9saW5rXCI7XG5pbXBvcnQgSGVhZGVyIGZyb20gXCIuLi9jb21wb25lbnRzL2hlYWRlclwiO1xuLy8gaW1wb3J0IENvbnRlbnQgZnJvbSBcIi4uL2NvbXBvbmVudHMvQ29udGVudFwiO1xuXG5leHBvcnQgZGVmYXVsdCAoKSA9PiAoXG4gIDxtYWluPlxuICAgIDxIZWFkZXIgLz5cbiAgICA8c2VjdGlvbj5cbiAgICAgIDxMaW5rIGhyZWY9XCIvYWJvdXRcIj5cbiAgICAgICAgPGE+QWJvdXQgdGhpcyBibG9nPC9hPlxuICAgICAgPC9MaW5rPlxuICAgICAgPGJyLz5cbiAgICAgIDxMaW5rIGhyZWY9XCIvaGVsbG93b3JsZFwiPlxuICAgICAgICA8YT5IZWxsbyBXb3JsZDwvYT5cbiAgICAgIDwvTGluaz5cbiAgICA8L3NlY3Rpb24+XG4gICAgPHN0eWxlIGpzeD57YFxuICAgIGh0bWwsIGJvZHlcbiAgICB7XG4gICAgICAgIG1hcmdpbjogMHB4OyBwYWRkaW5nOiAwcHhcbiAgICB9XG5cbiAgICBhIHtcbiAgICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTtcbiAgICAgIGNvbG9yOiBibGFjaztcbiAgICAgIGZvbnQtc2l6ZTogMjRweDtcbiAgICAgIGZvbnQtd2VpZ2h0OiA2MDA7XG4gICAgfVxuICAgIGB9PC9zdHlsZT5cbiAgPC9tYWluPlxuKTsiXX0= */\n/*@ sourceURL=/Users/wijayantoap/Desktop/Tito/My website/blog/pages/index.js */"));
+  }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
+    href: "/helloworld",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 17
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
+    className: "jsx-264355577",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 18
+    },
+    __self: this
+  }, "Hello World"))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
+    id: "264355577",
+    __self: this
+  }, "html.jsx-264355577,body.jsx-264355577{margin:0px;padding:0px;}a.jsx-264355577{-webkit-text-decoration:none;text-decoration:none;color:black;font-size:24px;font-weight:600;}.content.jsx-264355577{padding:2.5rem 0;margin-left:auto;margin-right:auto;width:580px;font-family:Times New Roman,Times,serif;font-size:20px;text-align:justify;line-height:35px;}@media only screen and (max-width:56.25em){.content.jsx-264355577{width:80%;}}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy93aWpheWFudG9hcC9EZXNrdG9wL1RpdG8vTXkgd2Vic2l0ZS9ibG9nL3BhZ2VzL2luZGV4LmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQW9CZ0IsQUFJb0IsQUFJUSxBQU1KLEFBWUQsVUFDZCxDQXRCTCxNQVVvQixNQVZuQixXQVdvQixnQkFQTixFQVFBLFVBUEcsRUFRMkIsYUFQMUIsZ0JBQ2xCLFdBT2lCLGVBQ0ksbUJBQ0YsaUJBQ25CIiwiZmlsZSI6Ii9Vc2Vycy93aWpheWFudG9hcC9EZXNrdG9wL1RpdG8vTXkgd2Vic2l0ZS9ibG9nL3BhZ2VzL2luZGV4LmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IExpbmsgZnJvbSBcIm5leHQvbGlua1wiO1xuaW1wb3J0IEhlYWRlciBmcm9tIFwiLi4vY29tcG9uZW50cy9oZWFkZXJcIjtcbi8vIGltcG9ydCBDb250ZW50IGZyb20gXCIuLi9jb21wb25lbnRzL0NvbnRlbnRcIjtcblxuZXhwb3J0IGRlZmF1bHQgKCkgPT4gKFxuICA8bWFpbj5cbiAgICA8SGVhZGVyIC8+XG4gICAgPHNlY3Rpb24gY2xhc3NOYW1lPVwiY29udGVudFwiPlxuICAgICAgPExpbmsgaHJlZj1cIi9lcnJvclwiPlxuICAgICAgICA8YT5Bbm90aGVyIHBvc3Q8L2E+XG4gICAgICA8L0xpbms+XG4gICAgICA8YnIvPlxuICAgICAgPExpbmsgaHJlZj1cIi9hYm91dFwiPlxuICAgICAgICA8YT5BYm91dCB0aGlzIGJsb2c8L2E+XG4gICAgICA8L0xpbms+XG4gICAgICA8YnIvPlxuICAgICAgPExpbmsgaHJlZj1cIi9oZWxsb3dvcmxkXCI+XG4gICAgICAgIDxhPkhlbGxvIFdvcmxkPC9hPlxuICAgICAgPC9MaW5rPlxuICAgIDwvc2VjdGlvbj5cbiAgICA8c3R5bGUganN4PntgXG4gICAgaHRtbCwgYm9keVxuICAgIHtcbiAgICAgICAgbWFyZ2luOiAwcHg7IHBhZGRpbmc6IDBweFxuICAgIH1cblxuICAgIGEge1xuICAgICAgdGV4dC1kZWNvcmF0aW9uOiBub25lO1xuICAgICAgY29sb3I6IGJsYWNrO1xuICAgICAgZm9udC1zaXplOiAyNHB4O1xuICAgICAgZm9udC13ZWlnaHQ6IDYwMDtcbiAgICB9XG4gICAgLmNvbnRlbnQge1xuICAgICAgcGFkZGluZzogMi41cmVtIDA7XG4gICAgICBtYXJnaW4tbGVmdDogYXV0bztcbiAgICAgIG1hcmdpbi1yaWdodDogYXV0bztcbiAgICAgIHdpZHRoOiA1ODBweDtcbiAgICAgIGZvbnQtZmFtaWx5OiBUaW1lcyBOZXcgUm9tYW4sIFRpbWVzLCBzZXJpZjtcbiAgICAgIGZvbnQtc2l6ZTogMjBweDtcbiAgICAgIHRleHQtYWxpZ246IGp1c3RpZnk7XG4gICAgICBsaW5lLWhlaWdodDogMzVweDtcbiAgICB9XG5cbiAgICBAbWVkaWEgb25seSBzY3JlZW4gYW5kIChtYXgtd2lkdGg6IDU2LjI1ZW0pIHtcbiAgICAgICAgLmNvbnRlbnQge1xuICAgICAgICAgICAgd2lkdGg6IDgwJTtcbiAgICAgICAgfVxuICAgIGB9PC9zdHlsZT5cbiAgPC9tYWluPlxuKTsiXX0= */\n/*@ sourceURL=/Users/wijayantoap/Desktop/Tito/My website/blog/pages/index.js */"));
 });
 
 /***/ }),

@@ -5,7 +5,11 @@ import Header from "../components/header";
 export default () => (
   <main>
     <Header />
-    <section>
+    <section className="content">
+      <Link href="/error">
+        <a>Another post</a>
+      </Link>
+      <br/>
       <Link href="/about">
         <a>About this blog</a>
       </Link>
@@ -26,6 +30,21 @@ export default () => (
       font-size: 24px;
       font-weight: 600;
     }
+    .content {
+      padding: 2.5rem 0;
+      margin-left: auto;
+      margin-right: auto;
+      width: 580px;
+      font-family: Times New Roman, Times, serif;
+      font-size: 20px;
+      text-align: justify;
+      line-height: 35px;
+    }
+
+    @media only screen and (max-width: 56.25em) {
+        .content {
+            width: 80%;
+        }
     `}</style>
   </main>
 );
