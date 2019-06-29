@@ -9,7 +9,7 @@ class Error extends Component {
         <Header />
           <section className="content">
           <h1>Second post already?! WOW</h1>
-          <p>in this post i just wanted to tell you that there was an error when i tried to deploy this blog for the second time. what a joker! the logs aren't that helpful and i need to do quite an ugly fix within the code. and you know what is worst than an error? an error that you can't solve.</p>
+          <p>in this post i just wanted to tell you that there was an error when i tried to deploy this blog for the second time. what a joker! the logs aren't that helpful and i need to do quite an ugly fix within the code. and you know what is worse than an error? an error that you can't solve.</p>
           </section>
           <style jsx>{`
           .content {
