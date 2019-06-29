@@ -1,11 +1,11 @@
 import Link from "next/link";
 import Header from "../components/header";
-import Content from "../components/Content";
+// import Content from "../components/Content";
 
 export default () => (
   <main>
     <Header />
-    <Content>
+    <section>
       <Link href="/about">
         <a>About this blog</a>
       </Link>
@@ -13,7 +13,7 @@ export default () => (
       <Link href="/helloworld">
         <a>Hello World</a>
       </Link>
-    </Content>
+    </section>
     <style jsx>{`
     html, body
     {

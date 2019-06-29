@@ -1,4 +1,4 @@
-(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/development/pages/about.js"],{
+(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/development/pages/helloworld.js"],{
 
 /***/ "./components/header.js":
 /*!******************************!*\
@@ -2199,21 +2199,21 @@ for (var i = 0; i < DOMIterables.length; i++) {
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fabout&absolutePagePath=%2FUsers%2Fwijayantoap%2FDesktop%2FTito%2FMy%20website%2Fblog%2Fpages%2Fabout.js!./":
-/*!**************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fabout&absolutePagePath=%2FUsers%2Fwijayantoap%2FDesktop%2FTito%2FMy%20website%2Fblog%2Fpages%2Fabout.js ***!
-  \**************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fhelloworld&absolutePagePath=%2FUsers%2Fwijayantoap%2FDesktop%2FTito%2FMy%20website%2Fblog%2Fpages%2Fhelloworld.js!./":
+/*!************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fhelloworld&absolutePagePath=%2FUsers%2Fwijayantoap%2FDesktop%2FTito%2FMy%20website%2Fblog%2Fpages%2Fhelloworld.js ***!
+  \************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 
-    (window.__NEXT_P=window.__NEXT_P||[]).push(["/about", function() {
-      var page = __webpack_require__(/*! ./pages/about.js */ "./pages/about.js")
+    (window.__NEXT_P=window.__NEXT_P||[]).push(["/helloworld", function() {
+      var page = __webpack_require__(/*! ./pages/helloworld.js */ "./pages/helloworld.js")
       if(true) {
-        module.hot.accept(/*! ./pages/about.js */ "./pages/about.js", function() {
-          if(!next.router.components["/about"]) return
-          var updatedPage = __webpack_require__(/*! ./pages/about.js */ "./pages/about.js")
-          next.router.update("/about", updatedPage.default || updatedPage)
+        module.hot.accept(/*! ./pages/helloworld.js */ "./pages/helloworld.js", function() {
+          if(!next.router.components["/helloworld"]) return
+          var updatedPage = __webpack_require__(/*! ./pages/helloworld.js */ "./pages/helloworld.js")
+          next.router.update("/helloworld", updatedPage.default || updatedPage)
         })
       }
       return { page: page.default || page }
@@ -3176,10 +3176,10 @@ module.exports = __webpack_require__(/*! ./dist/style */ "./node_modules/styled-
 
 /***/ }),
 
-/***/ "./pages/about.js":
-/*!************************!*\
-  !*** ./pages/about.js ***!
-  \************************/
+/***/ "./pages/helloworld.js":
+/*!*****************************!*\
+  !*** ./pages/helloworld.js ***!
+  \*****************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3198,23 +3198,23 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/wijayantoap/Desktop/Tito/My website/blog/pages/about.js";
+var _jsxFileName = "/Users/wijayantoap/Desktop/Tito/My website/blog/pages/helloworld.js";
 
 
- // import Content from '../components/content'
+ // import Content from '../components/Content'
 
-var AboutPage =
+var HelloWorld =
 /*#__PURE__*/
 function (_Component) {
-  Object(_babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_4__["default"])(AboutPage, _Component);
+  Object(_babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_4__["default"])(HelloWorld, _Component);
 
-  function AboutPage() {
-    Object(_babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_0__["default"])(this, AboutPage);
+  function HelloWorld() {
+    Object(_babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_0__["default"])(this, HelloWorld);
 
-    return Object(_babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_2__["default"])(this, Object(_babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_3__["default"])(AboutPage).apply(this, arguments));
+    return Object(_babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_2__["default"])(this, Object(_babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_3__["default"])(HelloWorld).apply(this, arguments));
   }
 
-  Object(_babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_1__["default"])(AboutPage, [{
+  Object(_babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_1__["default"])(HelloWorld, [{
     key: "render",
     value: function render() {
       return react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("main", {
@@ -3241,31 +3241,31 @@ function (_Component) {
           lineNumber: 11
         },
         __self: this
-      }, "About this blog"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("p", {
+      }, "This is my first blog post"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("p", {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 12
         },
         __self: this
-      }, "Okay it seems that I decided to rewrite my blog using this something2 framework and i just wanna try figuring things out. anyway i might go back in using yadayada for some reason. well the progress seems a little bit off the schedule (yes yes you are right, i have no actual schedule to make this). welp i guess that is that")));
+      }, "As always, it is a Hello World post :)")));
     }
   }]);
 
-  return AboutPage;
+  return HelloWorld;
 }(react__WEBPACK_IMPORTED_MODULE_5__["Component"]);
 
-/* harmony default export */ __webpack_exports__["default"] = (AboutPage);
+/* harmony default export */ __webpack_exports__["default"] = (HelloWorld);
 
 /***/ }),
 
-/***/ 1:
-/*!******************************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2Fabout&absolutePagePath=%2FUsers%2Fwijayantoap%2FDesktop%2FTito%2FMy%20website%2Fblog%2Fpages%2Fabout.js ***!
-  \******************************************************************************************************************************************************/
+/***/ 3:
+/*!****************************************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2Fhelloworld&absolutePagePath=%2FUsers%2Fwijayantoap%2FDesktop%2FTito%2FMy%20website%2Fblog%2Fpages%2Fhelloworld.js ***!
+  \****************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Fabout&absolutePagePath=%2FUsers%2Fwijayantoap%2FDesktop%2FTito%2FMy%20website%2Fblog%2Fpages%2Fabout.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fabout&absolutePagePath=%2FUsers%2Fwijayantoap%2FDesktop%2FTito%2FMy%20website%2Fblog%2Fpages%2Fabout.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Fhelloworld&absolutePagePath=%2FUsers%2Fwijayantoap%2FDesktop%2FTito%2FMy%20website%2Fblog%2Fpages%2Fhelloworld.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fhelloworld&absolutePagePath=%2FUsers%2Fwijayantoap%2FDesktop%2FTito%2FMy%20website%2Fblog%2Fpages%2Fhelloworld.js!./");
 
 
 /***/ }),
@@ -3281,5 +3281,5 @@ module.exports = dll_6dc2816e14fab51b8269;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js"]]]);
-//# sourceMappingURL=about.js.map
+},[[3,"static/runtime/webpack.js"]]]);
+//# sourceMappingURL=helloworld.js.map

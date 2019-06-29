@@ -1,5 +1,7 @@
 {
   "scripts": {
+    "dev": "next",
+    "start": "next start",
     "now-build": "next build && next export -o dist",
     "now-dev": "next -p $PORT"
   },
