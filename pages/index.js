@@ -6,6 +6,9 @@ export default () => (
   <main>
     <Header />
     <section className="content">
+      <Link href="/asdf">
+        <a>Pinned Post</a>
+      </Link>
       <Link href="/error">
         <a>Another post</a>
       </Link>
