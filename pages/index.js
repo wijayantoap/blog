@@ -9,6 +9,7 @@ export default () => (
       <Link href="/asdf">
         <a>Pinned Post</a>
       </Link>
+      <br />
       <Link href="/error">
         <a>Another post</a>
       </Link>
